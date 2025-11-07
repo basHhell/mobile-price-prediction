@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/993353564192803961/660a2ecff5944a308dd3d726d068222b/artifacts
+deleted_time: 1762360530218
+end_time: 1762360367980
+entry_point_name: ''
+experiment_id: '993353564192803961'
+lifecycle_stage: deleted
+run_id: 660a2ecff5944a308dd3d726d068222b
+run_name: adorable-shrew-247
+run_uuid: 660a2ecff5944a308dd3d726d068222b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762360367668
+status: 4
+tags: []
+user_id: codfa

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/993353564192803961/1eda99d8c5f84b9d9f9b9cdcdc36a52e/artifacts
+deleted_time: 1762360530233
+end_time: 1762360211279
+entry_point_name: ''
+experiment_id: '993353564192803961'
+lifecycle_stage: deleted
+run_id: 1eda99d8c5f84b9d9f9b9cdcdc36a52e
+run_name: gregarious-stoat-587
+run_uuid: 1eda99d8c5f84b9d9f9b9cdcdc36a52e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762360211090
+status: 4
+tags: []
+user_id: codfa

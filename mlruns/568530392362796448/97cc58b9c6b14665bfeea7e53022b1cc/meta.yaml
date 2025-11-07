@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568530392362796448/97cc58b9c6b14665bfeea7e53022b1cc/artifacts
+end_time: 1762367809717
+entry_point_name: ''
+experiment_id: '568530392362796448'
+lifecycle_stage: active
+run_id: 97cc58b9c6b14665bfeea7e53022b1cc
+run_name: chill-sponge-983
+run_uuid: 97cc58b9c6b14665bfeea7e53022b1cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762367809400
+status: 4
+tags: []
+user_id: codfa

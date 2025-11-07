@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/919830393184854071/94fdeac9a0fc41b2b4ae698011c58a36/artifacts
+end_time: 1762360787171
+entry_point_name: ''
+experiment_id: '919830393184854071'
+lifecycle_stage: active
+run_id: 94fdeac9a0fc41b2b4ae698011c58a36
+run_name: hilarious-fowl-724
+run_uuid: 94fdeac9a0fc41b2b4ae698011c58a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762360786783
+status: 4
+tags: []
+user_id: codfa

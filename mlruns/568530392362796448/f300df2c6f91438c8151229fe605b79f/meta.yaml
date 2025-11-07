@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568530392362796448/f300df2c6f91438c8151229fe605b79f/artifacts
+end_time: 1762368058360
+entry_point_name: ''
+experiment_id: '568530392362796448'
+lifecycle_stage: active
+run_id: f300df2c6f91438c8151229fe605b79f
+run_name: thundering-asp-278
+run_uuid: f300df2c6f91438c8151229fe605b79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762368058040
+status: 4
+tags: []
+user_id: codfa

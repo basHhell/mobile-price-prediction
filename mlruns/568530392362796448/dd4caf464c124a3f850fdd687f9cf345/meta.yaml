@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568530392362796448/dd4caf464c124a3f850fdd687f9cf345/artifacts
+end_time: 1762368503577
+entry_point_name: ''
+experiment_id: '568530392362796448'
+lifecycle_stage: active
+run_id: dd4caf464c124a3f850fdd687f9cf345
+run_name: salty-yak-885
+run_uuid: dd4caf464c124a3f850fdd687f9cf345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762368503524
+status: 4
+tags: []
+user_id: codfa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568530392362796448/d194ed5bd5c249dab73f1a9bd0503e18/artifacts
+end_time: 1762368158786
+entry_point_name: ''
+experiment_id: '568530392362796448'
+lifecycle_stage: active
+run_id: d194ed5bd5c249dab73f1a9bd0503e18
+run_name: brawny-wren-615
+run_uuid: d194ed5bd5c249dab73f1a9bd0503e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762368158502
+status: 4
+tags: []
+user_id: codfa

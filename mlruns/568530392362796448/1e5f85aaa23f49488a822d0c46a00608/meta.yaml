@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568530392362796448/1e5f85aaa23f49488a822d0c46a00608/artifacts
+end_time: 1762368142417
+entry_point_name: ''
+experiment_id: '568530392362796448'
+lifecycle_stage: active
+run_id: 1e5f85aaa23f49488a822d0c46a00608
+run_name: mysterious-pig-952
+run_uuid: 1e5f85aaa23f49488a822d0c46a00608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762368142130
+status: 4
+tags: []
+user_id: codfa

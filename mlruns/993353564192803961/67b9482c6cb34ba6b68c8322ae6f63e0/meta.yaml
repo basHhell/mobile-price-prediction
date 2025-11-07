@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993353564192803961/67b9482c6cb34ba6b68c8322ae6f63e0/artifacts
+end_time: 1762409921423
+entry_point_name: ''
+experiment_id: '993353564192803961'
+lifecycle_stage: active
+run_id: 67b9482c6cb34ba6b68c8322ae6f63e0
+run_name: gregarious-wren-918
+run_uuid: 67b9482c6cb34ba6b68c8322ae6f63e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762409921114
+status: 3
+tags: []
+user_id: codfa

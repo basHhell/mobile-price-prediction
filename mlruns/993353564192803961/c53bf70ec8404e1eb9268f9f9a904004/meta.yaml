@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/993353564192803961/c53bf70ec8404e1eb9268f9f9a904004/artifacts
+deleted_time: 1762360530242
+end_time: 1762359942151
+entry_point_name: ''
+experiment_id: '993353564192803961'
+lifecycle_stage: deleted
+run_id: c53bf70ec8404e1eb9268f9f9a904004
+run_name: peaceful-tern-299
+run_uuid: c53bf70ec8404e1eb9268f9f9a904004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762359941937
+status: 4
+tags: []
+user_id: codfa

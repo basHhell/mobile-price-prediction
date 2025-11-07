@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568530392362796448/66e68f68b660471682824ea6955b0169/artifacts
+end_time: 1762367884941
+entry_point_name: ''
+experiment_id: '568530392362796448'
+lifecycle_stage: active
+run_id: 66e68f68b660471682824ea6955b0169
+run_name: bouncy-conch-602
+run_uuid: 66e68f68b660471682824ea6955b0169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762367884715
+status: 4
+tags: []
+user_id: codfa

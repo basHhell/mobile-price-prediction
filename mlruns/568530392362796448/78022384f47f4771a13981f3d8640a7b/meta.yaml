@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568530392362796448/78022384f47f4771a13981f3d8640a7b/artifacts
+end_time: 1762368685283
+entry_point_name: ''
+experiment_id: '568530392362796448'
+lifecycle_stage: active
+run_id: 78022384f47f4771a13981f3d8640a7b
+run_name: delightful-sloth-380
+run_uuid: 78022384f47f4771a13981f3d8640a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762368685018
+status: 3
+tags: []
+user_id: codfa

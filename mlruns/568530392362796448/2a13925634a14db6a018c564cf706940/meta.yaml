@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568530392362796448/2a13925634a14db6a018c564cf706940/artifacts
+end_time: 1762367805529
+entry_point_name: ''
+experiment_id: '568530392362796448'
+lifecycle_stage: active
+run_id: 2a13925634a14db6a018c564cf706940
+run_name: amazing-sheep-53
+run_uuid: 2a13925634a14db6a018c564cf706940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762367805244
+status: 4
+tags: []
+user_id: codfa

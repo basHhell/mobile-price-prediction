@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568530392362796448/01fbeb205485410f8c2d1c26ab06051c/artifacts
+end_time: 1762368550858
+entry_point_name: ''
+experiment_id: '568530392362796448'
+lifecycle_stage: active
+run_id: 01fbeb205485410f8c2d1c26ab06051c
+run_name: defiant-jay-659
+run_uuid: 01fbeb205485410f8c2d1c26ab06051c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762368550541
+status: 4
+tags: []
+user_id: codfa
