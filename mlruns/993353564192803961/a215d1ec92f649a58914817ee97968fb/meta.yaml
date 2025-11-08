@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/993353564192803961/a215d1ec92f649a58914817ee97968fb/artifacts
+end_time: 1762592391500
+entry_point_name: ''
+experiment_id: '993353564192803961'
+lifecycle_stage: active
+run_id: a215d1ec92f649a58914817ee97968fb
+run_name: suave-shrike-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762592391300
+status: 3
+tags: []
+user_id: codfa
